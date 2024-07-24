@@ -310,15 +310,15 @@ Manual testing was conducted to evaluate the system's performance in real-world 
 API testing was done using `Invoke-WebRequest` and `Invoke-WebRequest` in PowerShell. Below following are some examples on how we did API testing.
 
 Example 1: wit.ai response using speech file.
-![alt text](./images/api_speech.png)
+![alt text](./api_speech.png)
 
 Following below test's response files are saved in `test/test_response` directory.
 
 Example 2: Laptop Server's response on "complete the song" feature.
-![alt text](./images/api_song.png)
+![alt text](./api_song.png)
 
 Example 3: Laptop Server's response on todo features.
-![alt text](./images/api_todos.png)
+![alt text](./api_todos.png)
 
 
 
