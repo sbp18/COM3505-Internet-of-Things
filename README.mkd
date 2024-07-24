@@ -1,4 +1,4 @@
-# COM3505 Lab Assessment 2 - DIY Alexa - IoT-Based Personal Assistant (Marks Received: 96%)
+# COM3505 Lab Assessment 2 - DIY Alexa - IoT-Based Personal Assistant (Marks Achieved: 96%)
 
 ## Section 1. Introduction
 ### 1.1 Overview
