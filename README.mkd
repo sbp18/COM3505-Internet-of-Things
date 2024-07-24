@@ -1,4 +1,4 @@
-# COM3505 Lab Assessment 2 - DIY Alexa - IoT-Based Personal Assistant
+# COM3505 Lab Assessment 2 - DIY Alexa - IoT-Based Personal Assistant (Marks Received: 96%)
 
 ## Section 1. Introduction
 ### 1.1 Overview
@@ -9,6 +9,7 @@
 
 
 Traditional voice-controlled systems like Amazon Alexa typically require substantial computational resources and complex software. In contrast, IoT devices demonstrate their efficiency by performing similar tasks using considerably less hardware and memory. This not only demonstrates the compact and efficient nature of IoT technology but also shows how versatile the devices can be. IoT devices are not only effective in their current configurations, but they also hold vast potential for future enhancements and broader applications. This project explores how minimalistic IoT setups can achieve complex functionalities and underscores the innovative possibilities of integrating simple IoT devices into everyday tasks.
+
 
 
 ### 1.2 Objectives
