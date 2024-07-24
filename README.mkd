@@ -326,7 +326,7 @@ Example 3: Laptop Server's response on todo features.
 ## Section 5. Results
 ### 5.1 Video Demonstration
 
-[COM3505 LAB ASSESSMENT 2 - DIY Alexa - IoT Based Personal Assistant]([https://youtu.be/AZRjILR1Ut4](https://drive.google.com/drive/folders/1J7Lc3A0777z3aYMz-0LgQDUY6p42dcd6?usp=sharing)).
+[COM3505 LAB ASSESSMENT 2 - DIY Alexa - IoT Based Personal Assistant] [https://drive.google.com/drive/folders/1J7Lc3A0777z3aYMz-0LgQDUY6p42dcd6?usp=sharing](LINK).
 
 It has been fast forwarded.
 
