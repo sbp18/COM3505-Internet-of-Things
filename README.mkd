@@ -3,7 +3,7 @@
 ## Section 1. Introduction
 ### 1.1 Overview
 <center>
-<img src="./images/main_esp.jpg" alt="Main Diagram" width="400" style="transform: rotate(270deg);">
+<img src="./main_esp.jpg" alt="Main Diagram" width="400" style="transform: rotate(270deg);">
 <p><em>Figure 1: DIY ALEXA</em></p>
 </center>
 
@@ -70,7 +70,7 @@ Each component plays a crucial role in the overall functioning of the DIY ALEXA 
 ### 2.2 Schematic Diagram
 Figure 2 provides the schematic diagram for the DIY Alexa. It shows how ESP32 Huzzah is connected to an amplifier and a speaker, and the microphone.
 <center>
-<img src="./diagrams/circuit-1.png" alt="Circuit Diagram" width="400">
+<img src="./circuit-1.png" alt="Circuit Diagram" width="400">
 <p><em>Figure 2: Schematic Diagram of the DIY ALEXA</em></p>
 </center>
 
@@ -149,7 +149,7 @@ The `wit_ai_data` folder contains data exported from [wit.ai](https://www.wit.ai
 
 ### 2.5 System Design Flowchart
 <center>
-<img src="./diagrams/flowchart-2.jpg" alt="Flowchart-2" width="700">
+<img src="./flowchart-2.jpg" alt="Flowchart-2" width="700">
 <p><em>Figure 3: FlowChart 2</em></p>
 </center>
 
@@ -167,7 +167,7 @@ The flowchart in Figure 3 demonstrates how DIY-Alexa processes commands:
 
 
 <center>
-<img src="./diagrams/flowchart-1.jpg" alt="Flowchart-1" width="700">
+<img src="./flowchart-1.jpg" alt="Flowchart-1" width="700">
 <p><em>Figure 4: FlowChart 1</em></p>
 </center>
 
@@ -206,7 +206,7 @@ To train the Wit.ai model, a systematic process was followed to ensure the model
    - Each utterance was annotated with the corresponding intent and entities. This involved marking the parts of the text that correspond to specific entities and assigning an intent to the entire utterance. This annotation is crucial for training the model to understand and extract the necessary information.
   
   <center>
-    <img src="./images/wit.ai_training.png" alt="wit.ai-1" width="700">
+    <img src="./wit.ai_training.png" alt="wit.ai-1" width="700">
     <p><em>Figure 5: Training utterances</em></p>
 </center>
 
